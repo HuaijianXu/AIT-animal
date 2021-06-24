@@ -1,0 +1,54 @@
+/* CSS Document */
+/*index设计*/
+img{max-width:100%;}
+
+body{
+	background: url(../images/banner.jpg) no-repeat 0px 0px;
+	background-attachment:fixed;
+}
+
+.agile-nav {
+    position: relative;
+    margin-top: 57px;
+}
+
+
+h1{
+	margin:0;	
+}
+/*中间图片布局*/
+.audio-record-list {
+	margin:0 auto;
+	width: 34%;
+}
+/*div*/
+.audio-main {
+	padding:3em 0;
+}
+/*标题样式*/
+.audio-main h1{
+	text-align: center;
+	font-size: 50px;
+	color: #fff;
+	margin-bottom:40px;
+}
+/*页脚样式*/
+.audio-main p{
+	margin-top:2em;
+	line-height:1.8em;
+	color: #fff;
+	font-size: 15px;
+	padding: 0 1em;
+	text-align: center;
+}
+/*中间图片宽度*/
+.audio-record-list {
+    width: 40%;
+}
+
+
+
+
+
+
+
